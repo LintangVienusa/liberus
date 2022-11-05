@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    @apply z-10 text-primary;
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+}
